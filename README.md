@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @Mr-Jerry-Haxor
+- 📱I'm a Backend web developer
+- 🤖I'm an AIML enthusiastic person
 - 👀 I’m interested in ETHICAL HACKING
 - 🌱 I’m currently learning CYBERSECURITY
 - 💞️ I’m looking to collaborate on Ethical Hacking projects
